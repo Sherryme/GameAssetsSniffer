@@ -11,4 +11,4 @@ Categorize game assets and display them in the console, such as images, sound ef
 
 4. Copy the contents of the main.user.js file.
    
-5. Press Enter to execute the script. Done!
+5. Press `Enter` to execute the script. Done!
